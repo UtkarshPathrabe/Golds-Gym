@@ -1,2 +1,4 @@
-# Golds Gym
- Golds Gym website created using ReactJS
+Golds Gym
+=========  
+
+Golds Gym website created using ReactJS.
