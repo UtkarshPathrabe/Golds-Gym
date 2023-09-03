@@ -3,7 +3,7 @@ Golds Gym Fitness App: Elevate Your Workout
 
 [Live Website](https://utkarsh-golds-gym.netlify.app/)
 
-The Golds Gym Fitness App, built on ReactJS and styled with Material UI, is your ultimate fitness companion. It seamlessly integrates ExerciseDB data from RapidAPI, offering a wealth of exercise options.
+The Golds Gym Fitness App, built on ReactJS and styled with Material UI, is your ultimate fitness companion. It seamlessly integrates [ExerciseDB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/) data from [RapidAPI](https://rapidapi.com/hub), offering a wealth of exercise options.
 
 ## Key Features:  
 
